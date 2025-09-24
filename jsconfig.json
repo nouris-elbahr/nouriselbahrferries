@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "https://nouriselbahrferries.com/",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
